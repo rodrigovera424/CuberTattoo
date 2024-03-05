@@ -1,6 +1,7 @@
 # Cuber Tattoo
 
-![Cuber Tattoo](captura.png)
+![Cuber Tattoo](src/captura.png)
+
 
 
 ## Descripción
