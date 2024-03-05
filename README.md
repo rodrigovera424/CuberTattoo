@@ -2,6 +2,7 @@
 
 ![Cuber Tattoo](captura.png)
 
+
 ## Descripción
 
 Cuber Tattoo es una página web diseñada para mostrar una galería de tatuajes utilizando tecnologías web modernas como React. La página está diseñada para ser visualmente atractiva y fácil de navegar, proporcionando a los usuarios una experiencia agradable mientras exploran diferentes diseños de tatuajes.
