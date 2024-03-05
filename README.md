@@ -1,6 +1,6 @@
 # Cuber Tattoo
 
-![Cuber Tattoo](screenshot.png)
+![Cuber Tattoo](captura.png)
 
 ## Descripción
 
